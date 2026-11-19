@@ -1,1 +1,1 @@
-window.LBCFG={url:'',token:''}; // isi url Web App Apps Script dan token (lihat README.txt)
+window.LBCFG={url:'',token:'',demo:false}; // demo:true = isi contoh pengguna & logbook. url/token: lihat README.txt
